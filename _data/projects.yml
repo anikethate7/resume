@@ -2,15 +2,15 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
+- project: Voting DApp(Decentralized Application)
   role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+  duration: 2023 &mdash; Present
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: <li>Ethereum blockchain platform for smart contract deployment</li><li>Solidity programming language for smart contract development.</li><li>Web3.js for frontend interaction with the blockchain.</li><li>Truffle framework for development, testing, and deployment.</li>
 
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
+- project:  College social media (GP-Alert)
   role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+  duration: Dec 2021 &mdash; Mar 2022
   # url: "#"
   description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
