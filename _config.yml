@@ -1,6 +1,6 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "Aniket Resume"
+description: "A resume of Aniket Hate."
 
 # Build settings
 markdown: kramdown
@@ -14,14 +14,14 @@ resume_name:                    "Aniket Hate"
 resume_title:                   "Student at D Y Patil College of Engineering"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "lisasimpson@youremailaddress.com"
+resume_contact_email:           "anikethate2003@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "555-7334"
-resume_contact_address:         "742 Evergreen Terrace, Springfield"
+resume_contact_telephone:       "9022542773"
+resume_contact_address:         "Yavatmal, Maharashtra 445001"
 
-resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
-display_header_contact_info:    "false"
+resume_header_contact_info:     "Yavatmal, Maharashtra 445001 • 9022542773 • anikethate2003@gmail.com"
+display_header_contact_info:    "true"
 
 resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
 
@@ -39,7 +39,7 @@ resume_section_projects:        true
 resume_section_skills:          true
 resume_section_recognition:     true
 resume_section_links:           true
-resume_section_associations:    false
+resume_section_associations:    true
 # resume_section_interests:       true
 
 # Resume social links
