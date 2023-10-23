@@ -1,11 +1,10 @@
 # Skills
 # Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
-
+- skill: Programming Skill
+  description: <li>Java</li><li>C++</li><li>Dart</li><li>Solidity</li>
 # Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Technologies
+  description: <li>Blockchain</li><li>Android</li>
 
 # Digital content development and creation
 - skill: Digital content development and creation
